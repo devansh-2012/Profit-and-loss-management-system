@@ -61,9 +61,9 @@ To run this project, you need:
 
 3. Continue or Finish
 
-After entering data for a month, the system will ask:
+  After entering data for a month, the system will ask:
 
-Do you want to enter data for another month? (yes/no)
+  Do you want to enter data for another month? (yes/no)
 
 - Type yes to add another month.
 
