@@ -55,9 +55,9 @@ To run this project, you need:
 
 2. Enter Data
 
--> Input the sales amount (integer) for Week 1 through Week 4 for the current month.
+- Input the sales amount (integer) for Week 1 through Week 4 for the current month.
 
--> The inputs and outputs are formatted for Indian Rupees (₹).
+- The inputs and outputs are formatted for Indian Rupees (₹).
 
 3. Continue or Finish
 
@@ -65,14 +65,14 @@ After entering data for a month, the system will ask:
 
 Do you want to enter data for another month? (yes/no)
 
--> Type yes to add another month.
+- Type yes to add another month.
 
--> Type no to stop input and generate the final report.
+- Type no to stop input and generate the final report.
 
 4. View Results
 
--> A text summary will appear in the console.
+- A text summary will appear in the console.
 
--> A popup window will display the bar chart comparing total sales per month.
+- A popup window will display the bar chart comparing total sales per month.
    ```bash
    sales_analyzer.py
