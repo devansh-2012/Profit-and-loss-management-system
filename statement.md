@@ -1,5 +1,5 @@
 # 📄PROJECT STATEMENT
-##Profit and Loss Management System
+## Profit and Loss Management System
 
 This program is a Multi-Month Sales Analyzer that collects weekly sales data for multiple months, summarizes the results, and displays a bar chart of monthly totals.
 
